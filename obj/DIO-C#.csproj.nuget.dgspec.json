@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\Documents\\Dev\\DIO-C#\\DIO-C#.csproj": {}
+    "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\DIO-C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\Documents\\Dev\\DIO-C#\\DIO-C#.csproj": {
+    "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\DIO-C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C#\\DIO-C#.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\DIO-C#.csproj",
         "projectName": "DIO-C#",
-        "projectPath": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C#\\DIO-C#.csproj",
+        "projectPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\DIO-C#.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C#\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

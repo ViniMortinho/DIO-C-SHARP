@@ -1,3 +1,6 @@
-﻿using DIO-C#.models
-Pessoa p = new Pessoa
+﻿using ExemplosFundamentos.models;
+Pessoa pessoa1 = new Pessoa();
+pessoa1.Nome=
 
+
+    
