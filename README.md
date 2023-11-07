@@ -1,4 +1,4 @@
-# DIO-C-
+# DIO-C SHARP
 Repositório Referente ao curso Formação .NET Developer pela DIO
 
 ## Descrição
