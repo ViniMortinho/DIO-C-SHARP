@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\DIO-C#.csproj",
-      "projectName": "DIO-C#",
-      "projectPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\DIO-C#.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\ExemplosFundmentos.csproj",
+      "projectName": "ExemplosFundmentos",
+      "projectPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\ExemplosFundmentos.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\obj\\",
       "projectStyle": "PackageReference",

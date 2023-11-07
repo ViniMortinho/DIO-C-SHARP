@@ -1,6 +1,2 @@
-﻿using ExemplosFundamentos.models;
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome=
-
-
-    
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");

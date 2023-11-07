@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DIO-C#")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ExemplosFundmentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DIO-C#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DIO-C#")]
+[assembly: System.Reflection.AssemblyProductAttribute("ExemplosFundmentos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ExemplosFundmentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

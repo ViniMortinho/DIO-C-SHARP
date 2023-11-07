@@ -9,8 +9,8 @@
     nesse caso EXE indica que será um executavel-->
     <TargetFramework>net7.0</TargetFramework>
     <!-- Esta propriedade define a versão do .NET-->
-    <RootNamespace>DIO_C_</RootNamespace>
-    <!-- <RootNamespace>DIO_C_</RootNamespace>: Esta propriedade define o namespace raiz do projeto. Neste caso, DIO_C_ é o namespace raiz-->
+    <RootNamespace>ExemplosFundamentos</RootNamespace>
+    <!-- <RootNamespace>Exemplos Fundamentos </RootNamespace>: Esta propriedade define o namespace raiz do projeto. Neste caso, DIO_C_ é o namespace raiz-->
     <ImplicitUsings>enable</ImplicitUsings>
     <!--Essa propriedade habilita ou desabilita os usings implicitos no codigo-->
     <Nullable>enable</Nullable>
