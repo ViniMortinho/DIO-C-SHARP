@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DIO_C_.models
+namespace DIO-C#.models
 {
     public class Pessoa
     {
@@ -13,7 +13,7 @@ namespace DIO_C_.models
         public void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
-            
+
         }
     }
 }
