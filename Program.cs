@@ -1,4 +1,68 @@
-﻿//CONVERSÃO PARA STRING
+﻿//CAST IMPLÍCITO 
+//Se utiliza para converter un valor de una variavel a outro tipo.
+
+using ExemplosFundamentos.models;
+
+//int a = 5;
+//double b = a; 
+
+int a = int.MaxValue;
+long b = Convert.ToInt32(a);
+
+Console.WriteLine(b);
+
+
+
+//CAST EXPLICÍTOS
+//Se utiliza para converter um valor de uma variavel a outro tipo, mas é necessário informar o tipo que você quer
+//Se utiliza para converter um valor de uma variável a outro tipo, forçando o compilador a realizar a conversão
+//Se usa para convertir um valor de uma variável a outra tipagem, é necessário indicar o novo tipo da vari
+//int x = 10;
+//float y = (float)x;
+//Console.WriteLine(y);
+
+
+
+//CAST DE TIPAGEM SIMPLE A PARA OBJETO
+//Para realizar esse cast precisamos importar o namespace System.Convert e utilizar o metodo ToInt32()
+//int z = 10;
+//object w = Convert.ToInt32(z);
+//Console.WriteLine(w);
+
+
+//CAST DE OBJETO PARA INT
+//Utilizando o operador (int), que faz o cast do objeto para int
+//object v = "10";
+//int u = (int)v;
+//Console.WriteLine(u);
+
+
+//CAST DE STRING PARA INT
+//Utilizando o operador (int), que faz o cast da string para int
+//string s = "10";
+//int t = int.Parse(s);
+//Console.WriteLine(t);
+
+
+//CAST DE STRING PARA FLOAT
+//Utilizando o operador (float), que faz o cast da string para float
+//string ss = "10.789";
+//float tf = float.Parse(ss);
+//Console.WriteLine(tf);
+
+
+
+
+
+
+
+
+
+
+
+
+
+//CONVERSÃO PARA STRING
 //CASOS DE USO:
 //1. Para concatenar strings;
 //2. Para realizar operações de busca e substituição em um texto (buscar palavra, substituir
@@ -53,12 +117,13 @@
 //50. Para obter as palavras que estão em ordem alfabética crescente;
 
 
-using ExemplosFundamentos.models;
-int inteiro = 5;
+//using ExemplosFundamentos.models;
+//int inteiro = 5;
 
-string a = inteiro.ToString ();
+//string a = inteiro.ToString ();
 
-Console.WriteLine(a);
+//Console.WriteLine(a);
+
 
 
 
