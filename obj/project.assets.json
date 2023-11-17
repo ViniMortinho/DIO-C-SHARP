@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\ExemplosFundmentos.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C-SHARP\\ExemplosFundmentos.csproj",
       "projectName": "ExemplosFundmentos",
-      "projectPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\ExemplosFundmentos.csproj",
+      "projectPath": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C-SHARP\\ExemplosFundmentos.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\Documents\\Dev\\ExemplosFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\Documents\\Dev\\DIO-C-SHARP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
