@@ -1,15 +1,51 @@
-﻿//CAST IMPLÍCITO 
-//Se utiliza para converter un valor de una variavel a outro tipo.
+﻿//USANDO O INT.TRYPARSE
+//int idade;
+//idade = int.TryParse(txtIdade.Text, out idade);
+//if (idade > 0)
+//{MessageBox.Show("A sua idade é: " + idade);}
 
 using ExemplosFundamentos.models;
+string a = "15";
+int b = 0;
+
+int.TryParse(a, out b);
+
+Console.WriteLine(b);
+Console.WriteLine("Conversão feita com sucesso");
+
+
+
+
+
+
+
+
+//using ExemplosFundamentos.models;
+
+//double a = 4 / (2 + 2);
+//Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+//CAST IMPLÍCITO 
+//Se utiliza para converter un valor de una variavel a outro tipo.
+
+//using ExemplosFundamentos.models;
 
 //int a = 5;
 //double b = a; 
 
-int a = int.MaxValue;
+/* int a = int.MaxValue;
 long b = Convert.ToInt32(a);
 
-Console.WriteLine(b);
+ Console.WriteLine(b);
 
 
 
