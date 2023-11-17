@@ -1,17 +1,59 @@
-﻿using System.Security.Cryptography;
+﻿
+
+
+
+
+//DIFERENÇA ENTRE CONVERT E PARSE
+//CONVERTER UM TIPO DE DADOS PARA OUTRO
+//PARSER: ANALISAR O QUE VEM NA MANIFESTAÇÃO DO PROGRAMA
+
+
+
+//int a = Convert.ToInt32(null);
+//int a = int.Parse(null);
+
+
+
+//Console.WriteLine("Valor convertido para int: " + a);
+
+
+
+
+
+
+
+
+
+//Cast ou Casting
+
+//int a = Convert.ToInt32("5");
+
+//int a = int.Parse("5c");
+
+//Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+/* using System.Security.Cryptography;
 using ExemplosFundamentos.models;
 
 int a = 10;
 int b = 20;
 
 int c = a + b;
-//c = c +5;
+c = c +5;
 
-//c += 5;
+c += 5;
 
 c -=5;
 
-Console.WriteLine(c);
+Console.WriteLine(c); */
 
 
 
